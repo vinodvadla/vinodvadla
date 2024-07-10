@@ -1,36 +1,32 @@
-## Hi 👋
-# Iam Vinod Vadla.
+## Hi there, I'm Vinod Vadla 👋
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate about crafting innovative solutions to real-world challenges, while also exploring the realm of DevOps to streamline development processes and enhance product delivery with automation and continuous integration. :wink:
-
-- 🔭 I’m planning for a Project **EventEase: Your all-in-one solution for effortless event management, from start to finish.**.
-- 🌱 &nbsp; Learning more about Entrepreneurship and Algorithms.
-- 💬 Ask me about Full Stack Development, DSA, and any Tech-related stuff.
-- 👯 I’m looking to collaborate for a React Native and Web development Projects.
+I'm a **Full-stack Mobile and Web Developer** passionate about crafting innovative solutions to real-world challenges, while also exploring the realm of DevOps to streamline development processes and enhance product delivery with automation and continuous integration. 😉
+- 💬 Ask me about **Full Stack Development, DSA, and any Tech-related stuff**.
+- 👯 I’m looking to collaborate on **React Native and Web development projects**.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### 🛠 Languages and Tools
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![NodeJs](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
-  ![ExpressJs](https://img.shields.io/badge/-Express.js-787878?logo=express.js&logoColor=white)
-  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![React JS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/vinodvadla">
@@ -38,3 +34,11 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinodvadla&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinodvadla/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vinodvadla)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinodvadla)
